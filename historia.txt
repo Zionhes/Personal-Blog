@@ -1,5 +1,6 @@
 Esta es la historia de ANderson
 
-20 años y aprendiendo Desarollo web
+21 años y aprendiendo Desarollo web, nacido en Venezuela
+y con grandes aspiraciones
 
 junto con python para ML (Machine Learning)
