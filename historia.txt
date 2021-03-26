@@ -1,6 +1,8 @@
-Esta es la historia de ANderson
+Esta es la historia de Anderson
 
 21 años y aprendiendo Desarollo web, nacido en Venezuela
 y con grandes aspiraciones
 
 junto con python para ML (Machine Learning)
+
+Y le gustan los dulces.
